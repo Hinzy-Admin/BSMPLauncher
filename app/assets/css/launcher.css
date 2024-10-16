@@ -106,7 +106,7 @@ body, button {
 
 /* Frame logo (windows only). */
 #frameTitleDock {
-    padding: 0px 10px;
+    padding: 0px 0px;
 }
 #frameTitleText {
     font-size: 14px;
